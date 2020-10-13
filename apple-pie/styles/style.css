@@ -56,7 +56,8 @@ h3{
 .ingredients h3{
     text-align: left;
     border-top: solid;
-    border-width: 1px;
+    border-width: px;
+    border-color: rgb(110, 110, 110);
     padding-top: 20px;
     padding-bottom: 20px
 }
@@ -86,7 +87,8 @@ h3{
 .instructions h3{
     text-align: left;
     border-top: solid;
-    border-width: 1px;
+    border-width: 3px;
+    border-color: rgb(110, 110, 110);
     padding-top: 20px;
     padding-bottom: 20px
 }
